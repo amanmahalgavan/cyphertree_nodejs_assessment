@@ -21,8 +21,7 @@
     "neat-csv": "^6.0.0",
     "pg": "^8.5.1",
     "sequelize": "^6.3.5",
-    "sequelize-values": "^1.1.0",
-    "throng": "^5.0.0"
+    "sequelize-values": "^1.1.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
